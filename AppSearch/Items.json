@@ -1,0 +1,75 @@
+ [
+  {
+  "id" : "101",
+  "name" : "Keynote",
+  "link" : "https://developer.apple.com/videos/play/wwdc2015-101/",
+  "thumbnail" : "session101.pdf",
+  "summary" : "Session 101: iOS, OS X, watchOS",
+  "phone" : "(800)-MY-APPLE",
+  "keywords" : "Keynote, Apple, 101, Session"
+  },{
+  "id" : "103",
+  "name" : "Apple Design Awards",
+  "link" : "https://developer.apple.com/videos/play/wwdc2015-103/",
+  "thumbnail" : "session103.pdf",
+  "summary" : "Session 103: iOS, OS X, watchOS. Join us for an unforgettable award ceremony celebrating developers and their outstanding work. The 2015 Apple Design Awards recognize state of the art iOS, OS X, and Apple Watch apps that reflect excellence in design and innovation.",
+  "phone" : "(800)-MY-APPLE",
+  "keywords" : "Apple Design Awards, awards, 103, Session"
+  },{
+  "id" : "106",
+  "name" : "What's New in Swift",
+  "link" : "https://developer.apple.com/videos/play/wwdc2015-106/",
+  "thumbnail" : "session106.pdf",
+  "summary" : "Session 106: Swift continues its rapid advancement with version 2. New optimizations make your app run even faster, and new syntax makes your code more expressive. Learn about powerful new features like error handling, testability, and availability checking. This session will help you write even better apps by moving to Swift 2.",
+  "phone" : "(800)-MY-APPLE",
+  "keywords" : "Swift Swift 2, 106, Session"
+  },{
+  "id" : "107",
+  "name" : "What's New in Cocoa Touch",
+  "link" : "https://developer.apple.com/videos/play/wwdc2015-107/",
+  "thumbnail" : "session107.pdf",
+  "summary" : "Session 107: iOS 9 expands on adaptivity with Multitasking. Learn about additions to UIKit to support truly universal layout sizes and types. Get introduced to all-new frameworks and APIs for Cocoa Touch such as a new Contacts framework, text-editing gestures, enhancements to dynamics and visual effects, and much more. Come find out which sessions you won't want to miss throughout the week.",
+  "phone" : "(800)-MY-APPLE",
+  "keywords" : "Cocoa Touch, multitasking, 107, Session"
+  },{
+  "id" : "203",
+  "name" : "What's New in HealthKit",
+  "link" : "https://developer.apple.com/videos/play/wwdc2015-203/",
+  "thumbnail" : "session203.pdf",
+  "summary" : "Session 203: HealthKit is Apple's framework to centralize the data storage of personal health information. Hear about the latest enhancements to the framework, supporting new types of data, efficiently deleting objects, and integrating HealthKit into your Apple Watch app.",
+  "phone" : "(800)-MY-APPLE",
+  "keywords" : "HealthKit, health, 203, Session"
+  },{
+  "id" : "206",
+  "name" : "What's New in Mapkit",
+  "link" : "https://developer.apple.com/videos/play/wwdc2015-206/",
+  "thumbnail" : "session206.pdf",
+  "summary" : "Session 206: See what's new in MapKit. Learn about improvements to existing APIs and new ways of incorporating transit ETAs and Flyover map views in your app.",
+  "phone" : "(800)-MY-APPLE",
+  "keywords" : "Mapkit, maps, 206, Session"
+  },{
+  "id" : "210",
+  "name" : "What's new in HomeKit",
+  "link" : "https://developer.apple.com/videos/play/wwdc2015-210/",
+  "thumbnail" : "session210.pdf",
+  "summary" : "Session 210: HomeKit is Apple's framework that enables apps to easily and securely interact with HomeKit enabled accessories such as lights, locks, thermostats and more. Learn about the improvements to HomeKit, including support for new accessory types, easy ways to setup and remotely manage accessories.",
+  "phone" : "(800)-MY-APPLE",
+  "keywords" : "HomeKit, lights, 210, Session"
+  },{
+  "id" : "215",
+  "name" : "What's New in Storyboards",
+  "link" : "https://developer.apple.com/videos/play/wwdc2015-215/",
+  "thumbnail" : "session215.pdf",
+  "summary" : "Session 215: Storyboards are a great way to build the user interface and flow of your application on iOS and OS X. Gain an understanding of how to effectively organize your storyboards, define segues for your interface, and easily unwind transitions. Dive into a detailed discussion of the new APIs, and hear tips on how to create great user interfaces.",
+  "phone" : "(800)-MY-APPLE",
+  "keywords" : "Storyboard, user interface, 215, Session"
+  },{
+  "id" : "220",
+  "name" : "What's New in Core Data",
+  "link" : "https://developer.apple.com/videos/play/wwdc2015-220/",
+  "thumbnail" : "session220.pdf",
+  "summary" : "Session 220: Learn about the latest enhancements to the Core Data framework. Hear how to efficiently delete objects, ensure uniqueness, and easily migrate your persistent stores to new locations.",
+  "phone" : "(800)-MY-APPLE",
+  "keywords" : "Core Data, persistent store, 220, Session"
+  }
+  ]
